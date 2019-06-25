@@ -1,0 +1,56 @@
+body{
+ background-color: #c24242;
+ transition: background-image 5s ; 
+    background-repeat: repeat;
+}
+
+#im3 {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+#im1 {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+#im2 {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+h6{
+    color: rgb(229, 231, 75);
+    text-align: center;
+    font-family: verdana;
+    font-size: 2em;
+  }
+
+p{
+    color:whitesmoke;
+    text-align: center;
+    font-family: verdana;
+    font-size: 2em; 
+}
+
+
+ a:link{
+    color: rgb(241, 186, 167);
+    font-family: Roboto, Helvetica, sans-serif;
+
+  }
+
+ a:visited{
+    color:rgb(250, 208, 167);
+    font-family: Roboto, Helvetica, sans-serif;
+
+  }
+
+ a:hover{
+    color: rgb(240, 217, 160);
+    font-family: Roboto, Helvetica, sans-serif;
+
+  }
